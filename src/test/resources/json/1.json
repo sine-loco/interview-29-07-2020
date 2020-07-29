@@ -1,0 +1,11 @@
+{
+  "employee": {
+    "firstname": "Max",
+    "lastname": "Mustermann",
+    "address": {
+      "street": "Teststrasse",
+      "streetnumber": "1",
+      "zip": "12345"
+    }
+  }
+}
